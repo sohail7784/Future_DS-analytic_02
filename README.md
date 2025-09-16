@@ -21,12 +21,6 @@ This dashboard helps marketing teams understand ad campaign performance with:
 - **Excel/CSV** – Data Cleaning  
 - **Dataset** – Facebook Ad Campaign Data from Kaggle  
 
-## Dashboard Preview
-
-
-## Dataset Overview
-https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign
-
 ## Insights
 - Age group **45–49** showed the highest CTR.  
 - Male users contributed more conversions compared to female users.  
