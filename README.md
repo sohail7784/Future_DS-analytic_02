@@ -21,8 +21,11 @@ This dashboard helps marketing teams understand ad campaign performance with:
 - **Excel/CSV** – Data Cleaning  
 - **Dataset** – Facebook Ad Campaign Data from Kaggle
 
-## Dashboard
+## Dashboard file
 https://github.com/sohail7784/Future_DS-analytic_02/blob/main/social%20media%20campaign%20tracker.pbix
+
+## Dashboard Overview
+https://github.com/sohail7784/Future_DS-analytic_02/blob/main/Screenshot%202025-09-28%20003513.png
 
 ## Insights
 - Age group **45–49** showed the highest CTR.  
